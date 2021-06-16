@@ -1,6 +1,6 @@
-[IMAGEM DESBRAVADOR]
+# Desbravador Software 🌎
 
-## Desafio- Desenvolvedor Frontend
+## 🚀 Desafio- Desenvolvedor Frontend
 Não é esperado que todas as pessoas consigam realizar esse desafio por completo, já que é destinado a todos os níveis de carreira.
 A avaliação será baseada na sua capacidade de escrever um código simples, de fácil manutenção e com uma boa organização.
 
@@ -164,10 +164,12 @@ req.end(function (res) {
 
 
 ### FAQ
+
 #### Posso utilizar frameworks/bibliotecas?
 Sim.
+
 #### Quanto tempo eu tenho ?
 Quanto mais tempo você demorar, mais críticos seremos na sua avaliação =]
+
 #### React, Angular ou Vue?
 Sem preferencia, porém com React terá um bônus
-![image](https://user-images.githubusercontent.com/29865602/122146496-8d099e00-ce2d-11eb-9f0f-8eefa323eba3.png)
