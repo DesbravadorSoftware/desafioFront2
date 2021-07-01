@@ -70,7 +70,7 @@ A avaliação será baseada na sua capacidade de escrever um código simples, de
 ### API que você deve consumir
 ```
 URL: hotels-com-free.p.rapidapi.com
-Chave de acesso: 8d84e2f535msh2ecf705eb53119bp1647cbjsnc5a4f9d13869
+Chave de acesso: 5a4c8eb413msh89fbb982d9c1314p1855ffjsn0158238daf4e
 ```
 
 
@@ -96,7 +96,7 @@ req.query({
 });
 
 req.headers({
-	"x-rapidapi-key": "8d84e2f535msh2ecf705eb53119bp1647cbjsnc5a4f9d13869",
+	"x-rapidapi-key": "5a4c8eb413msh89fbb982d9c1314p1855ffjsn0158238daf4e",
 	"x-rapidapi-host": "hotels-com-free.p.rapidapi.com",
 	"useQueryString": true
 });
@@ -126,7 +126,7 @@ req.query({
 });
 
 req.headers({
-	"x-rapidapi-key": "8d84e2f535msh2ecf705eb53119bp1647cbjsnc5a4f9d13869",
+	"x-rapidapi-key": "5a4c8eb413msh89fbb982d9c1314p1855ffjsn0158238daf4e",
 	"x-rapidapi-host": "hotels-com-free.p.rapidapi.com",
 	"useQueryString": true
 });
@@ -148,7 +148,7 @@ var unirest = require("unirest");
 var req = unirest("GET", "https://hotels-com-free.p.rapidapi.com/nice/image-catalog/v2/hotels/106346");
 
 req.headers({
-	"x-rapidapi-key": "8d84e2f535msh2ecf705eb53119bp1647cbjsnc5a4f9d13869",
+	"x-rapidapi-key": "5a4c8eb413msh89fbb982d9c1314p1855ffjsn0158238daf4e",
 	"x-rapidapi-host": "hotels-com-free.p.rapidapi.com",
 	"useQueryString": true
 });
